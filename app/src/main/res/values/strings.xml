@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string name="click_me" translatable="false">Click Me!</string>
+    <string name="vaccikid" translatable="false">Vaccine Reminder</string>
+    <string name="let_us_help_you_keep_your_child_healthy_forever_and_always" translatable="false">Let us Help you keep you and your child healthy forever and always</string>
+    <string name="sign_up" translatable="false">Sign Up</string>
+    <string name="log_in" translatable="false">Log In</string>
+    <string name="sign_up_today">Sign Up today</string>
+
+</resources>
